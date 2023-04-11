@@ -1,0 +1,34 @@
+body{
+    background-image: url("http://getwallpapers.com/wallpaper/full/a/5/9/1296481-time-wallpaper-2560x1440-retina.jpg");
+  min-height: 100vh;
+  background-size: center;
+  align-items:center;
+  justify-content: center;
+  flex-direction: column;
+  background-position: center center;
+}
+h1{
+    font-size: 4rem;
+    font-weight: regular;
+    font-weight: normal;
+}
+.count{
+    display:flex;
+    font-size: 6rem;
+}
+.bigtext{
+    font-size: 55px;
+    margin: 1px; 
+   position: center;
+   font-weight: bold;
+}
+.count-el{
+    font-size: 15px;
+    text-align: center ;
+    align:right;
+    padding-left: 200px;
+    padding-top: 60px;
+}
+.count-el span{
+    font-size: 20px;
+}
